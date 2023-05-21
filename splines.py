@@ -16,7 +16,7 @@ b = [13,12,12,20,20,20,0,0,0,0,0,0]
 
 A = np.array([F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12])
 x = np.linalg.solve(A, b) #Solucion
-coeficientes = ['a0', 'a1', 'a2', 'a3', 'b0', 'b1', 'b2', 'b3', 'c0', 'c1', 'c2', 'c3']
+coeficientes = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l']
 solucion = {}
 
 for i in range(12):
