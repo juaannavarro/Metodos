@@ -1,4 +1,8 @@
-# Metodos numéricos en el pronóstico del tiempo
+# <h1 align='center'>Metodos numéricos en el pronóstico del tiempo</h1>
+
+---
+
+<p align='center'>Ruben Nogueras, Paula Naranjo, Ignacio Pedrero y Juan Navarro</p>
 
 ---
 
